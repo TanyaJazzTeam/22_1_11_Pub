@@ -15,6 +15,7 @@
 				{
 					"name": "Hydrodynamics",
 					"complexity": "4",
+					"dfs": "1111",
 					"interest": "3",
 					"bool": false
 
